@@ -1,0 +1,76 @@
+body {
+     background-color: #009BDD;
+}
+@media (max-width: 481px) {
+    #logo {
+        width:100%;
+    }
+    body {
+        background-image: url(fondo.jpg);
+    }
+    
+     #seleccioneusuario {
+        width:100%;
+    }
+   
+    
+     #microempicon {
+        width:100%;
+    }
+
+    
+      #macroempicon {
+        width:100%;
+    }
+ 
+    
+       #configuracion {
+        width:100%;
+    }
+   
+}
+@media (min-width: 480px) {
+    #logo {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    body {
+        background-image: url(fondo2.jpg);
+    }
+    
+    
+    #seleccioneusuario {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    
+      #microempicon {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+  
+    
+     #macroempicon {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+   
+    
+       #configuracion {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+   
+    
+}
