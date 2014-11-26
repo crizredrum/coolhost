@@ -1,0 +1,45 @@
+body {
+        background-image: url(../iconos%20svg/microfoto.jpg);
+    }
+    
+    
+@media (max-width: 481px) {
+    #logo {
+        width:100%;
+    }
+    
+      #microempicon {
+        width:100%;
+    }
+    #adelantemicro {
+        width:10%;
+    }
+}
+
+
+
+
+
+
+
+@media (min-width: 480px) {
+    #logo {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #microempicon {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #adelantemicro {
+        width:10%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

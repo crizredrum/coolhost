@@ -27,8 +27,93 @@ body {
        #configuracion {
         width:100%;
     }
+    
+    
+        #Atomo1 {
+        width:100%;
+    }
+    
+     #Atomo2 {
+        width:100%;
+    }
+    
+    
+     #Atomo3 {
+        width:100%;
+    }
+    
+      #adelante1 {
+        width:10%;
+        float:right;
+    }
+      #atras2 {
+        width:10%;
+         
+        
+    }
+    
+     #atras3 {
+        width:10%;
+    }
+    
+     #adelante2 {
+        width:10%;
+         float:right;
+    }
    
+ 
+    #planescool {
+        width:100%;
+    }
+ 
+    #vermas1 {
+        width:100%;
+    }
+    
+    #vermas2 {
+        width:100%;
+    }
+     #vermas3 {
+        width:100%;
+    }
+    
+       #plan1 {
+        width:100%;
+    }
+     #precio1 {
+        width:100%;
+    }
+    #precio2 {
+        width:100%;
+    }
+     #precio3 {
+        width:100%;
+    }
+       #plan2 {
+        width:100%;
+    }
+    #plan3 {
+        width:100%;
+    }
 }
+   
+@media (min-width: 700px) and (orientation: landscape){
+   
+  #microfoto {
+        width:100%;
+    }
+    
+  #macrofoto {
+        width:100%;
+    }
+ 
+  
+  
+}
+  
+   
+   
+
 @media (min-width: 480px) {
     #logo {
         width:30%;
@@ -71,6 +156,112 @@ body {
         margin-left: auto;
         margin-right: auto;
     }
-   
     
+    #Atomo1 {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+     #Atomo2 {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #Atomo3 {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #adelante1 {
+        width:10%;
+        display: block;
+        float:right;
+    }
+     #adelante2 {
+        width:10%;
+        display: block;
+        float: right;
+    }
+     #atras2 {
+        width:10%;
+        display: block;
+        float:left;
+    }
+    #atras3 {
+        width:10%;
+        display: block;
+    }
+    
+     #planescool {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+     #vermas1 {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+     #vermas2 {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+     #vermas3 {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+       #plan1 {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+     #precio1 {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #precio2 {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #precio3 {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #plan2 {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+     #plan3 {
+        width:30%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+
 }
